@@ -1,4 +1,4 @@
-# QCMentorship
+# Quantum Exercises
 
 
 ## Task 2 
